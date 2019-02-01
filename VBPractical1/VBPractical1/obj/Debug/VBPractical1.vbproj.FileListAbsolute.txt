@@ -1,0 +1,12 @@
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\bin\Debug\VBPractical1.exe.config
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\bin\Debug\VBPractical1.exe
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\bin\Debug\VBPractical1.pdb
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\bin\Debug\VBPractical1.xml
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.vbprojAssemblyReference.cache
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.Resources.resources
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.vbproj.GenerateResource.cache
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.vbproj.CoreCompileInputs.cache
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.exe
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.xml
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.pdb
+C:\Users\arya\source\repos\VBPractical1\VBPractical1\obj\Debug\VBPractical1.VBPractical1.resources

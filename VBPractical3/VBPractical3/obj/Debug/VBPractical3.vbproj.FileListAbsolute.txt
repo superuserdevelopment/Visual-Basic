@@ -1,0 +1,11 @@
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\bin\Debug\VBPractical3.exe.config
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\bin\Debug\VBPractical3.exe
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\bin\Debug\VBPractical3.pdb
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\bin\Debug\VBPractical3.xml
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.Form1.resources
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.Resources.resources
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.vbproj.GenerateResource.cache
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.vbproj.CoreCompileInputs.cache
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.exe
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.xml
+C:\Users\arya\source\repos\VBPractical3\VBPractical3\obj\Debug\VBPractical3.pdb
